@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+chromadb
+pdfplumber
+tqdm
+httpx
+python-dotenv
